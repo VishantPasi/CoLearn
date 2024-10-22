@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "803011741267",
+    "project_id": "colearn-59936",
+    "storage_bucket": "colearn-59936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803011741267:android:879f22c722671b640a68a6",
+        "android_client_info": {
+          "package_name": "com.example.colearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4civpZlrTG7fVuoIYAN-zSYmMBcriwRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803011741267:android:a8efb50b3d52fe6b0a68a6",
+        "android_client_info": {
+          "package_name": "com.example.colearn_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4civpZlrTG7fVuoIYAN-zSYmMBcriwRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803011741267:android:c5281010932aff090a68a6",
+        "android_client_info": {
+          "package_name": "com.example.test_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4civpZlrTG7fVuoIYAN-zSYmMBcriwRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
